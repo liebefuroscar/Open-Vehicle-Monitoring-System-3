@@ -151,7 +151,7 @@ void OvmsVehicleVoltAmpera::IncomingFrameCan1(CAN_frame_t* p_frame)
             {
             case 11:
             case 12:
-              m_range_rated_km = 56;
+              m_range_rated_km = 80;
               break;
             case 13:
             case 14:
